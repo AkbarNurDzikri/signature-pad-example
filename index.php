@@ -13,7 +13,7 @@
   </form>
 
   <!-- source: https://github.com/szimek/signature_pad -->
-  <script src="http://localhost/learnUploadFileWithAjax/signature_pad-4.1.5/dist/signature_pad.umd.min.js"></script>
+  <script src="http://localhost/signature-pad-example/signature_pad-4.1.5/dist/signature_pad.umd.min.js"></script>
   <script>
     const canvas = document.querySelector("canvas");
     const signaturePad = new SignaturePad(canvas, {
